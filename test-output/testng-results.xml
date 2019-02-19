@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3754" started-at="2019-02-19T06:33:43Z" finished-at="2019-02-19T06:33:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3754" started-at="2019-02-19T06:33:43Z" finished-at="2019-02-19T06:33:47Z">
+      <class name="com.qa.testcases.GetAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="setUp" is-config="true" duration-ms="6" started-at="2019-02-18T22:33:43Z" finished-at="2019-02-18T22:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getResponseCode()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="getResponseCode" duration-ms="1356" started-at="2019-02-18T22:33:43Z" finished-at="2019-02-18T22:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseCode -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="setUp" is-config="true" duration-ms="1" started-at="2019-02-18T22:33:44Z" finished-at="2019-02-18T22:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTest()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="getTest" duration-ms="228" started-at="2019-02-18T22:33:44Z" finished-at="2019-02-18T22:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="setUp" is-config="true" duration-ms="2" started-at="2019-02-18T22:33:44Z" finished-at="2019-02-18T22:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="headers()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="headers" duration-ms="159" started-at="2019-02-18T22:33:44Z" finished-at="2019-02-18T22:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headers -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="setUp" is-config="true" duration-ms="2" started-at="2019-02-18T22:33:45Z" finished-at="2019-02-18T22:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="jsonArrayValues()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="jsonArrayValues" duration-ms="1695" started-at="2019-02-18T22:33:45Z" finished-at="2019-02-18T22:33:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonArrayValues -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="setUp" is-config="true" duration-ms="0" started-at="2019-02-18T22:33:46Z" finished-at="2019-02-18T22:33:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="jsonObjectValues()[pri:0, instance:com.qa.testcases.GetAPITest@1810399e]" name="jsonObjectValues" duration-ms="260" started-at="2019-02-18T22:33:46Z" finished-at="2019-02-18T22:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jsonObjectValues -->
+      </class> <!-- com.qa.testcases.GetAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
